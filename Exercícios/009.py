@@ -1,4 +1,4 @@
-#O programa recebe qualquer valor e mostra sua tabuada.
+# O programa recebe qualquer valor e mostra sua tabuada.
 num = int(input('Digite um valor: '))
 print('O valor digitado foi: {}'.format(num))
 print('{} x 1 = {}    |  {} x 7 = {}' .format(num, num * 1, num, num * 7))

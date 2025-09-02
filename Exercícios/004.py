@@ -1,4 +1,4 @@
-#Programa recebe uma variavel e cria uma lista de informações sobre a variavel
+# Programa recebe uma variavel e cria uma lista de informações sobre a variavel
 print('Lista de Informação')
 print('='*25)
 a = input('Digite qualquer coisa:  ')

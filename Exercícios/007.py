@@ -1,4 +1,4 @@
-#Programa recebe duas notas do usuario, calcula e mostra sua media.
+# Programa recebe duas notas do usuario, calcula e mostra sua media.
 print('Calculo de media do aluno')
 print('='*25)
 nt1 = float(input('Digite a primeira nota: '))
